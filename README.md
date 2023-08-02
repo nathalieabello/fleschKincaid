@@ -1,5 +1,5 @@
 # fleschKincaid
-The Flesch Kincaid Grade Level formula is widely used to determine the difficulty of an excerpt. This program allows the user to select a file from their computer and returns the grade level score, according to this algorithm. 
+The Flesch Kincaid Grade Level formula[^1] is widely used to determine the difficulty of an excerpt. This program allows the user to select a file from their computer and returns the grade level score, according to this algorithm. 
 <br><br>
 ### How to use this script
 STEP 1: (shown in image 1)
@@ -39,3 +39,6 @@ IMAGE 2 below
 IMAGE 3 below
 <br>
 <img width="682" alt="Screen Shot 2023-08-01 at 8 34 56 PM" src="https://github.com/nathalieabello/fleschKincaid/assets/141185624/d52b6383-8a60-4aa2-8ace-2a829de9ab0f">
+
+
+[^1] Rudolf Franz Flesch and J. Peter Kincaid
